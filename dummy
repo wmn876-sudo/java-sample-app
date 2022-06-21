@@ -6,3 +6,4 @@ sonar.java.binaries=**/target/classes
 sonar.language=java
 sonar.java.coveragePlugin=jacoco
 this is a modification to change 
+bn,
